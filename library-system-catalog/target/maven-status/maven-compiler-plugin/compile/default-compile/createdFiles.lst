@@ -1,0 +1,17 @@
+com\library\MonthlyMagazine.class
+com\library\Enum.class
+com\library\WeeklyMagazine.class
+com\library\BoardGame.class
+com\data\ItemDAO.class
+com\library\DailyMagazine.class
+com\library\ComputerGame.class
+com\library\Magazine.class
+com\library\Enum$Status.class
+com\library\ItemStatus.class
+com\library\Main.class
+com\data\ItemArrayDAO.class
+com\library\Book.class
+com\library\Game.class
+com\library\ItemRepository.class
+com\library\List.class
+com\library\LibraryItem.class
